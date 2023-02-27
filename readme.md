@@ -89,6 +89,8 @@ The name parameter would have the value 'Alice', and the greeting parameter woul
 
 https://cdn.tutsplus.com/active/uploads/legacy/flashtuts/074_EventListenersBasics/1.jpg
 
+![Q4b] (http://1.bp.blogspot.com/_x8Kft4g8fUQ/TQsQG7Jb8aI/AAAAAAAAAJg/zzFXj0gdD04/s1600/003hear.jpg)
+
 ## JS, what is an event listener?
 
 In JavaScript, an event listener is a function that waits for a specific event to occur on an element and then performs an action in response to that event.
