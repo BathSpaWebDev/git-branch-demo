@@ -85,6 +85,8 @@ greet('Alice', 'Hello');
 
 The name parameter would have the value 'Alice', and the greeting parameter would have the value 'Hello'. The function would then log the message "Hello, Alice!" to the console.
 
+![Q4](https://cdn.tutsplus.com/active/uploads/legacy/flashtuts/074_EventListenersBasics/1.jpg)
+
 ## JS, what is an event listener?
 
 In JavaScript, an event listener is a function that waits for a specific event to occur on an element and then performs an action in response to that event.
