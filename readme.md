@@ -63,6 +63,8 @@ In this example, the .container element will be a flex container with the child 
 
 Note that there are other flexbox properties you can use to achieve different alignment and layout effects depending on your needs, such as flex-direction, flex-wrap, and align-content.
 
+![Q3](https://coliss.com/wp-content/uploads-201904/flexbox/17-align-items-column.png)
+
 ## JS, what is a  function parameter?
 
 In JavaScript, a function parameter is a value that is passed to a function as an input when the function is called. It is a variable that holds the value of the argument passed to the function.
