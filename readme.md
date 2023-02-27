@@ -79,4 +79,22 @@ The name parameter would have the value 'Alice', and the greeting parameter woul
 
 ##JS, what is an event listener?
 
+In JavaScript, an event listener is a function that waits for a specific event to occur on an element and then performs an action in response to that event.
+
+Event listeners are used to listen for various types of events, such as mouse clicks, key presses, form submissions, and more. When an event occurs on an element, the event listener detects it and executes the function assigned to it.
+
+Here is an example of how to add an event listener to an element in JavaScript:
+const button = document.querySelector('button');
+
+button.addEventListener('click', function() {
+  console.log('Button clicked!');
+});
+
+In this example, we select a button element using document.querySelector(), and then add an event listener to it using the addEventListener() method. We pass two arguments to addEventListener(): the name of the event to listen for ('click'), and the function to execute when the event occurs.
+
+When the button is clicked, the function passed to addEventListener() will execute and log the message "Button clicked!" to the console.
+
+Note that there are many types of events that can be listened for using event listeners, and you can add multiple event listeners to the same element for different types of events. Additionally, event listeners can be removed using the removeEventListener() method.
+
+
 ##What do we mean by the DOM?
