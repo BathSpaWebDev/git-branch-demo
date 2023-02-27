@@ -59,6 +59,24 @@ Note that there are other flexbox properties you can use to achieve different al
 
 ##JS, what is a  function parameter?
 
+In JavaScript, a function parameter is a value that is passed to a function as an input when the function is called. It is a variable that holds the value of the argument passed to the function.
+
+Function parameters are defined in the function's declaration, within the parentheses after the function name. A function can have zero or more parameters, and each parameter is separated by a comma.
+
+Here is an example of a function declaration with two parameters:
+
+function greet(name, greeting) {
+  console.log(`${greeting}, ${name}!`);
+}
+
+In this example, the greet function has two parameters: name and greeting. When the function is called with arguments, the values of those arguments are assigned to the corresponding parameters.
+
+For example, if we call the greet function like this:
+
+greet('Alice', 'Hello');
+
+The name parameter would have the value 'Alice', and the greeting parameter would have the value 'Hello'. The function would then log the message "Hello, Alice!" to the console.
+
 ##JS, what is an event listener?
 
 ##What do we mean by the DOM?
