@@ -39,7 +39,7 @@ Content-Type: application/json
 
 In this example, the request is sent to the /api/users endpoint on the example.com server, with the data for the new user included in the request body as JSON. The server would then process the request and create the new user resource.
 
-![Q2](https://miro.medium.com/max/1024/1*z3ccal2qSTBlVwwknvEGOQ.png)
+![Q2]([https://miro.medium.com/max/1024/1*z3ccal2qSTBlVwwknvEGOQ.png](https://coliss.com/wp-content/uploads-201904/flexbox/17-align-items-column.png))
 
 ## CSS, if we want to align using flex-box  in the middle on the horizontal axis what are the flex properties I need to use? 3 answers needed...
 
