@@ -63,7 +63,7 @@ In this example, the .container element will be a flex container with the child 
 
 Note that there are other flexbox properties you can use to achieve different alignment and layout effects depending on your needs, such as flex-direction, flex-wrap, and align-content.
 
-![Q3](https://coliss.com/wp-content/uploads-201904/flexbox/17-align-items-column.png)
+![Q3](https://linuxhint.com/wp-content/uploads/2022/01/Function-Parameters-1.png)
 
 ## JS, what is a  function parameter?
 
