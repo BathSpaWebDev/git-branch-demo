@@ -37,6 +37,26 @@ In this example, the request is sent to the /api/users endpoint on the example.c
 
 ##CSS, if we want to align using flex-box  in the middle on the horizontal axis what are the flex properties I need to use? 3 answers needed...
 
+Here are three CSS flexbox properties you can use to horizontally center align elements using flexbox:
+
+display: flex: This property specifies that the container should use a flexbox layout.
+
+justify-content: center: This property centers the child elements horizontally along the main axis of the container.
+
+align-items: center: This property centers the child elements vertically along the cross axis of the container.
+
+Here's an example of how you can use these properties to center align child elements horizontally:
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+In this example, the .container element will be a flex container with the child elements centered horizontally and vertically.
+
+Note that there are other flexbox properties you can use to achieve different alignment and layout effects depending on your needs, such as flex-direction, flex-wrap, and align-content.
+
 ##JS, what is a  function parameter?
 
 ##JS, what is an event listener?
