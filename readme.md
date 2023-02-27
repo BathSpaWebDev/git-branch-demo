@@ -1,4 +1,4 @@
-# Task
+# FIRST TASK
 
 Each of you clone  this repository aonto your computer using Githib Desktop.
 
@@ -11,9 +11,9 @@ When you are happy with it publish the branch.
 
 Make a pull request to merge it into the main branch.
 
-#Questions for today:
+# SECOND TASK: Questions for today:
 
-##What type of http request do I need to make  to add a new resource via a API?
+## What type of http request do I need to make  to add a new resource via a API?
 
 To add a new resource via an API, you need to use the HTTP POST request method.
 
@@ -35,7 +35,7 @@ Content-Type: application/json
 
 In this example, the request is sent to the /api/users endpoint on the example.com server, with the data for the new user included in the request body as JSON. The server would then process the request and create the new user resource.
 
-##CSS, if we want to align using flex-box  in the middle on the horizontal axis what are the flex properties I need to use? 3 answers needed...
+## CSS, if we want to align using flex-box  in the middle on the horizontal axis what are the flex properties I need to use? 3 answers needed...
 
 Here are three CSS flexbox properties you can use to horizontally center align elements using flexbox:
 
@@ -57,7 +57,7 @@ In this example, the .container element will be a flex container with the child 
 
 Note that there are other flexbox properties you can use to achieve different alignment and layout effects depending on your needs, such as flex-direction, flex-wrap, and align-content.
 
-##JS, what is a  function parameter?
+## JS, what is a  function parameter?
 
 In JavaScript, a function parameter is a value that is passed to a function as an input when the function is called. It is a variable that holds the value of the argument passed to the function.
 
@@ -77,7 +77,7 @@ greet('Alice', 'Hello');
 
 The name parameter would have the value 'Alice', and the greeting parameter would have the value 'Hello'. The function would then log the message "Hello, Alice!" to the console.
 
-##JS, what is an event listener?
+## JS, what is an event listener?
 
 In JavaScript, an event listener is a function that waits for a specific event to occur on an element and then performs an action in response to that event.
 
@@ -97,7 +97,7 @@ When the button is clicked, the function passed to addEventListener() will execu
 Note that there are many types of events that can be listened for using event listeners, and you can add multiple event listeners to the same element for different types of events. Additionally, event listeners can be removed using the removeEventListener() method.
 
 
-##What do we mean by the DOM?
+## What do we mean by the DOM?
 
 The Document Object Model (DOM) is a programming interface for web documents that provides a structured representation of the document as a tree-like structure.
 
