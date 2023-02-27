@@ -1,3 +1,5 @@
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 # FIRST TASK
 
 Each of you clone  this repository aonto your computer using Githib Desktop.
