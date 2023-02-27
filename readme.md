@@ -15,6 +15,8 @@ Make a pull request to merge it into the main branch.
 
 # SECOND TASK: Questions for today:
 
+![Q1](https://miro.medium.com/max/1024/1*z3ccal2qSTBlVwwknvEGOQ.png)
+
 ## What type of http request do I need to make  to add a new resource via a API?
 
 To add a new resource via an API, you need to use the HTTP POST request method.
