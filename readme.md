@@ -89,7 +89,7 @@ The name parameter would have the value 'Alice', and the greeting parameter woul
 
 https://cdn.tutsplus.com/active/uploads/legacy/flashtuts/074_EventListenersBasics/1.jpg
 
-![Q4b] (http://1.bp.blogspot.com/_x8Kft4g8fUQ/TQsQG7Jb8aI/AAAAAAAAAJg/zzFXj0gdD04/s1600/003hear.jpg)
+![Q4b](http://1.bp.blogspot.com/_x8Kft4g8fUQ/TQsQG7Jb8aI/AAAAAAAAAJg/zzFXj0gdD04/s1600/003hear.jpg)
 
 ## JS, what is an event listener?
 
@@ -110,7 +110,7 @@ When the button is clicked, the function passed to addEventListener() will execu
 
 Note that there are many types of events that can be listened for using event listeners, and you can add multiple event listeners to the same element for different types of events. Additionally, event listeners can be removed using the removeEventListener() method.
 
-
+![Q5](https://miro.medium.com/freeze/max/740/1*9oWl_UOcgqyUHa5KRo01Zg.gif)
 ## What do we mean by the DOM?
 
 The Document Object Model (DOM) is a programming interface for web documents that provides a structured representation of the document as a tree-like structure.
