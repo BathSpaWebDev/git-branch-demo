@@ -98,3 +98,18 @@ Note that there are many types of events that can be listened for using event li
 
 
 ##What do we mean by the DOM?
+
+The Document Object Model (DOM) is a programming interface for web documents that provides a structured representation of the document as a tree-like structure.
+
+In the DOM, each HTML element is represented as an object with properties and methods that can be manipulated using JavaScript. The DOM provides a way to access and manipulate the content, structure, and style of a web page dynamically, in response to user actions, or other events.
+
+When a web page is loaded, the browser creates a DOM tree that represents the page's structure. Each element in the HTML code becomes a node in the DOM tree, and the browser provides a set of APIs to access and modify the DOM nodes and their attributes.
+
+For example, using the DOM, you can:
+
+Access and modify the content of HTML elements, such as changing the text of a heading, or adding new elements dynamically.
+Change the style of HTML elements, such as changing the background color or font size.
+Add or remove HTML elements from the page dynamically.
+Respond to user actions, such as clicking a button or submitting a form, by executing JavaScript code that manipulates the DOM.
+Overall, the DOM is a powerful tool for creating dynamic and interactive web pages, and it is an essential part of modern web development.
+
